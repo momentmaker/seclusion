@@ -1,0 +1,8 @@
+[book]
+authors = ["momentmaker"]
+language = "en"
+multilingual = false
+src = "src"
+title = "seclusion"
+description = "taking seclusion in the modern world"
+keywords = "meditation,spirituality,seclusion"
